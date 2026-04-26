@@ -3,6 +3,6 @@ cop = "LONAM"
 level = 320
 adep = ["EHAM"]
 releases = "F"
-from_sector = "ed/HL"
+from_sector = "ed/JL"
 to_sector = "eg/SCE"
 remarks = "Released max. FL360"
